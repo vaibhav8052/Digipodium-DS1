@@ -15,3 +15,5 @@ lt(60)
 
 hideturtle()
 mainloop()
+
+#new
